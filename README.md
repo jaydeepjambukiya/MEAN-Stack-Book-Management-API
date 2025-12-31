@@ -6,13 +6,7 @@ This project includes a RESTful backend API and a modern frontend built using **
 ---
 
 ## 🌍 Live URLs
-
-
-### 🔹 Frontend
-👉 https://mern-book-app.app
-
-### 🔹 Backend API
-👉 https://mern-book-api.com
+👉https://mean-stack-book-management.onrender.com/
 
 ---
 
@@ -28,41 +22,8 @@ This project includes a RESTful backend API and a modern frontend built using **
 ### Frontend
 - React (Vite)
 - Tailwind CSS
-- Axios
+
 - Lucide React Icons
-
----
-
-## 📂 Project Structure
-
-MERN-BOOK-API/
-│
-├── Backend/
-│ ├── Controllers/
-│ │ └── BookController.js
-│ ├── models/
-│ │ └── BookModel.js
-│ ├── Router/
-│ │ └── BookRoutes.js
-│ ├── .env
-│ ├── Server.js
-│ └── package.json
-│
-├── Frontend/
-│ └── vite-project/
-│ ├── public/
-│ ├── src/
-│ │ ├── assets/
-│ │ ├── Component/
-│ │ │ ├── BookCard.jsx
-│ │ │ ├── BookDetailModal.jsx
-│ │ │ ├── BookFormModal.jsx
-│ │ │ ├── Header.jsx
-│ │ │ └── Footer.jsx
-│ │ ├── App.jsx
-│ │ ├── main.jsx
-│ │ └── index.css
-│ └── package.json
 
 ---
 
