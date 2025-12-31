@@ -8,12 +8,6 @@ This project includes a RESTful backend API and a modern frontend built using **
 ## 🌍 Live URLs
 👉https://mean-stack-book-management.onrender.com/
 
-### 🔹 Frontend
-👉 https://mern-book-app.app
-
-### 🔹 Backend API
-👉 https://mern-book-api.com
-
 ---
 
 ## 🛠️ Tech Stack
