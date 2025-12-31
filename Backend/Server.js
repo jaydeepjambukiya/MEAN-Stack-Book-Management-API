@@ -34,6 +34,6 @@ const connect = async () => {
 connect();
 
 // Start Server
-app.listen(PORT, HOSTNAME, () => {
+app.listen(PORT, () => {
   console.log(`🚀 Server running at http://${HOSTNAME}:${PORT}`);
 });
